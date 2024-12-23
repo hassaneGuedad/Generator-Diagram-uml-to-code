@@ -3,20 +3,20 @@ Ce projet est un éditeur de diagramme UML interactif construit avec React et Re
 
 Fonctionnalités :
 
-Création de classes : Ajoutez de nouvelles classes UML avec des attributs et des méthodes.
-Connexion de classes : Définissez des relations entre les classes (héritage, composition, agrégation, association).
-Gestion des nœuds et arêtes : Déplacez les nœuds (classes) et modifiez leurs positions. Ajustez les arêtes (relations) avec différents types et cardinalités.
-Génération de code : Générez automatiquement du code dans plusieurs langages de programmation (par exemple, Java, PHP, Python) basé sur le diagramme UML.
-Contrôles interactifs : Effectuez un zoom, déplacez et réinitialisez le diagramme facilement grâce aux contrôles intégrés de ReactFlow.
-Interface utilisateur personnalisable : Interface propre et conviviale avec des types de nœuds et d'arêtes personnalisables.
-Technologies utilisées :
+-Création de classes : Ajoutez de nouvelles classes UML avec des attributs et des méthodes.
+-Connexion de classes : Définissez des relations entre les classes (héritage, composition, agrégation, association).
+-Gestion des nœuds et arêtes : Déplacez les nœuds (classes) et modifiez leurs positions. Ajustez les arêtes (relations) avec différents types et cardinalités.
+-Génération de code : Générez automatiquement du code dans plusieurs langages de programmation (par exemple, Java, PHP, Python) basé sur le diagramme UML.
+-Contrôles interactifs : Effectuez un zoom, déplacez et réinitialisez le diagramme facilement grâce aux contrôles intégrés de ReactFlow.
+-Interface utilisateur personnalisable : Interface propre et conviviale avec des types de nœuds et d'arêtes personnalisables.
+-Technologies utilisées :
 
-React
-ReactFlow
-TypeScript
-Tailwind CSS
+o React
+o ReactFlow
+o TypeScript
+o Tailwind CSS
 
 
 Pour lancer Projet : 
-cd
-npm start
+- cd
+- npm start
