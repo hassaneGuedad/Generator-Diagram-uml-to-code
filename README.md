@@ -20,3 +20,9 @@ o Tailwind CSS
 Pour lancer Projet : 
 - cd
 - npm start
+
+- 
+![1](https://github.com/user-attachments/assets/4564e1df-6695-4aa8-9b2b-6f484ef4edb8)
+
+
+![2](https://github.com/user-attachments/assets/4ca0f221-2b41-4958-9ca9-aecd3a06029e)
